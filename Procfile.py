@@ -1,1 +1,1 @@
-worker: python Dz5.py
+worker: python dz4.py
